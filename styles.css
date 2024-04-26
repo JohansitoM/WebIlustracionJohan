@@ -1,0 +1,26 @@
+* {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+.seccion {
+    display: flex;
+    flex-direction: column;
+}
+.seccion-artistas {
+    display: flex;
+    flex-direction: column;
+}
+.contenedor-cards {
+    display: flex;
+    justify-content: center;
+}
+.img-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 15rem;
+}
+.img-card img {
+    width: 100%;
+}   
